@@ -1,0 +1,11 @@
+{
+  "name": "n-dummy",
+  "version": "1.0.0",
+  "description": "Dummy APIs ",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "z3t4z00k",
+  "license": "ISC"
+}
